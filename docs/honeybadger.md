@@ -1,6 +1,6 @@
 # Using Honeybadger
 
-Everything in Honeybadger should be assigned to someone, which is equivalent to "I've looked at it, doesn't need to be fixed right away". Every actual bug should be a pivotal item -- Honeybadger things are bugs like any other bug so should be tracked in pivotal (there's not a perfect 1-1 mapping from honeybadger to pivotal because honeybadger is not perfect about determining whether an item is a duplicate).
+Everything in Honeybadger should be assigned to someone, which is equivalent to "I've looked at it, doesn't need to be fixed right away". Every actual bug should be a pivotal item — Honeybadger things are bugs like any other bug so should be tracked in pivotal (there's not a perfect 1-1 mapping from honeybadger to pivotal because honeybadger is not perfect about determining whether an item is a duplicate).
 
 First steps: (only need to do this once)
 
